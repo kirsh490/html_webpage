@@ -1,0 +1,56 @@
+.Assignment{
+    border: 7px solid black;
+    width: 97vw;
+    height: 80vh;
+    background-image: url(abc.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: aqua;
+}
+.h1{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.assign{
+    background-color: rgb(111, 135, 82);
+    height: 12vh;
+    width: 97vw;
+    border: 7px solid mediumspringgreen;
+}
+.website{
+    height: 45vh;
+    border: 7px solid rgba(108, 6, 126, 0.014);
+    background-color: rgba(77, 149, 161, 0.354);
+}
+
+.assign li:hover{
+    background-color: green;
+    color: white;
+}
+
+    li{
+        float: right;
+        padding: 15px;
+        list-style: none;
+        font-size: xx-large;
+
+    }
+    .p{
+        font-size:x-large;
+        padding: 10px;
+    }
+
+    a{
+        text-decoration: none;
+    }
+    .footer{
+        color: rgb(6, 11, 103);
+        font-size: xx-large;
+        text-align: right;
+        border: 6px solid brown;
+        font-style: inherit;
+        height: 6vh;
+        background-color:darkcyan;
+
+    }
